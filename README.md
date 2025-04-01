@@ -1,3 +1,3 @@
 # Kotlin
 ###
-Repositório para estudos de kotlin e Jetpack Compose
+Repositório para estudos de Kotlin e Jetpack Compose
